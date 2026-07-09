@@ -162,7 +162,7 @@ The custom HTML page is displayed successfully.
 
 ## Website Hosted on EC2
 
-![Website](website.jpg)
+![Website](Website.jpg)
 
 ---
 
