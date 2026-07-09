@@ -143,18 +143,6 @@ The custom HTML page is displayed successfully.
 
 ---
 
-# Project Files
-
-```
-aws-devops-intern-assignment/
-│
-├── index.html
-├── README.md
-└── screenshots/
-```
-
----
-
 # Screenshots Included
 
 - EC2 Instance Running
@@ -176,12 +164,3 @@ Successfully deployed a simple HTML website on an AWS EC2 Ubuntu instance using 
 
 **Kalvakota Divakar**
 
-<<<<<<< HEAD
-GitHub Repository:
-
-```
-https://github.com/Kalvakota-Divakar/DevOps-intern-assignment.git
-```
-=======
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
->>>>>>> cb2a7aefe1914aceda116d68efeaead136bb84dd
