@@ -158,7 +158,7 @@ The custom HTML page is displayed successfully.
 
 ## Nginx Status
 
-![Nginx Status](nginx-status.jpg)
+![Nginx Status](Status-nginx.jpg)
 
 ## Website Hosted on EC2
 
