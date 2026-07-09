@@ -142,15 +142,27 @@ http://<PUBLIC-IP>
 The custom HTML page is displayed successfully.
 
 ---
+# Screenshots
 
-# Screenshots Included
+## EC2 Dashboard
 
-- EC2 Instance Running
-- Successful SSH Login
-- Nginx Installation
-- Nginx Running Status
-- Linux Commands (`df -h`, `free -h`, `ps aux`)
-- Website Hosted on EC2
+![EC2 Dashboard](dashboard.jpg)
+
+## SSH Login
+
+![SSH Login](ssh-login.jpg)
+
+## Nginx Installation
+
+![Nginx Installation](nginx-installed.jpg)
+
+## Nginx Status
+
+![Nginx Status](nginx-status.jpg)
+
+## Website Hosted on EC2
+
+![Website](website.jpg)
 
 ---
 
