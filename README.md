@@ -154,7 +154,7 @@ The custom HTML page is displayed successfully.
 
 ## Nginx Installation
 
-![Nginx Installation](nginx-installed.jpg)
+![Nginx Installation](Nginxinstalled.jpg)
 
 ## Nginx Status
 
